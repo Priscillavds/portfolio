@@ -1,0 +1,44 @@
+.slot {
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 80px;
+    margin: 15px;
+    padding: 10px;
+    width: 80px;
+    background-color: white;
+}
+  
+.slotMachineContainer {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+  
+.slotMachineSubContainer {
+    border: 2px solid black;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+}
+  
+.lever {
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 100px;
+    margin: 15px;
+    padding: 10px;
+    width: 100px;
+}
+  
+.header{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: maroon;
+    font-weight: 500;
+}
+
+.container {
+    text-align: center;
+    padding: 10%;
+}

@@ -1,0 +1,31 @@
+body {
+    background-color:blanchedalmond;
+    padding: 20;
+    
+}
+main {
+    display: flex;
+    flex-direction: row;
+    padding-left: 100px;
+
+}
+
+.priscilla {
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.header {
+    color: maroon;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+footer {
+    height: 50px;
+    background-color: chocolate;
+    color: bisque;
+}

@@ -1,0 +1,11 @@
+.header{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: maroon;
+    font-weight: 500;
+}
+.container {
+    text-align: center;
+    padding-top: 10%;
+}

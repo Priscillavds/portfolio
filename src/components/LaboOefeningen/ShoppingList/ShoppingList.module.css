@@ -1,0 +1,35 @@
+.ShoppingAddForm {
+    display: grid; 
+    grid-template-columns: 100px 1fr;
+}
+  
+.error {
+    background-color: #f2dede;
+    border: 1px solid #ebccd1;
+    color: #a94442;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+  
+.succes {
+    background-color: #dff0d8;
+    border: 1px solid #d6e9c6;
+    color: #3c763d;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+  
+.header{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: maroon;
+    font-weight: 500;
+}
+.container {
+    text-align: center;
+    padding: 20%;
+    padding-top: 10%;
+}
